@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
+##### I am a Student 😎 ...
+
+<p align="center">
+<img src="https://github.com/shankaresh/shankaresh/blob/master/dx.gif" alt="me"/>
+</p>
 <!--
 **shankaresh/shankaresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
