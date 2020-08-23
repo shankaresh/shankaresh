@@ -1,10 +1,23 @@
-## Hi there 👋
+<h2> Hi there 👋 , 😎  I'm ✨ _Shankaresh_ ✨ </h2>
 
-##### I am a Student 😎 ...
+<h3> Reach Me :</h3>
+<a href="https://www.linkedin.com/in/shankaresh-t-n-9186a6160">
+<img alt="Shankaresh T N | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<h3>Repo Pins:</h3>
+
+[![100-Days-of-coding-python](https://github-readme-stats.vercel.app/api/pin/?username=shankaresh&repo=100-Days-of-coding)](https://github.com/shankaresh/100-Days-of-coding)
+
+<hr>
+
+<img align="left" alt="shankaresh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shankaresh&show_icons=true&hide_border=true"/>
+<img align="left" alt="shankaresh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankaresh&layout=compact&hide_border=true" />
 
 <p align="center">
 <img src="https://github.com/shankaresh/shankaresh/blob/master/dx.gif" alt="me"/>
 </p>
+
 <!--
 **shankaresh/shankaresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
