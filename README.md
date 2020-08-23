@@ -5,11 +5,13 @@
 <a href="https://www.linkedin.com/in/shankaresh-t-n-9186a6160">
 <img alt="Shankaresh T N | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+&nbsp;&nbsp;
 <a href="https://t.me/shankaresh">
-<img alt="Shankaresh T N | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />
+<img alt="Shankaresh T N | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.snapchat.com/add/gowda0511">
-<img alt="Shankaresh T N | Snapchat" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/snapchat.svg" />
+<img alt="Shankaresh T N | Snapchat" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />
 </a>
 
 <br>
