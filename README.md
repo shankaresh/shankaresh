@@ -30,7 +30,7 @@
 </details>
 <hr>
 
-<img align="left" alt="shankaresh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shankaresh&show_icons=true&hide_border=true&hide=issues"/>
+<img align="left" width="500px" alt="shankaresh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shankaresh&show_icons=true&hide_border=true&hide=issues"/>
 <img alt="shankaresh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankaresh&layout=compact&hide_border=true"/>
 
 <p align="center">
