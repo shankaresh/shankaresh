@@ -1,10 +1,11 @@
-## Hi there 👋 , 😎  I'm ✨ _Shankaresh_ ✨ 
-<i>version release at <b>2021</b></i>
+<h2 align="center">Hi there 👋 , 😎  I'm ✨ _Shankaresh_ ✨ </h2>
+<p align="center">version release at <b>2021</b></p>
 
-<description>Student of <b>Information Technology | front-end-developer</b> </description>
+<p align="center">Student of <b>Information Technology | front-end-developer</b> </p>
 
-#### Reach Me :
+<h3 align="center"> Reach Me :</h3>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/shankaresh-t-n-9186a6160">
 <img alt="Shankaresh T N | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,7 +17,7 @@
 <a href="https://www.snapchat.com/add/gowda0511">
 <img alt="Shankaresh T N | Snapchat" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />
 </a>
-
+</p>
 <br>
 
 <details>
