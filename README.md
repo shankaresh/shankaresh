@@ -1,9 +1,18 @@
-<h2> Hi there 👋 , 😎  I'm ✨ _Shankaresh_ ✨ </h2>
+## Hi there 👋 , 😎  I'm ✨ _Shankaresh_ ✨ 
 
-<h3> Reach Me :</h3>
+#### Reach Me :
+
 <a href="https://www.linkedin.com/in/shankaresh-t-n-9186a6160">
 <img alt="Shankaresh T N | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://t.me/shankaresh">
+<img alt="Shankaresh T N | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />
+</a>
+<a href="https://www.snapchat.com/add/gowda0511">
+<img alt="Shankaresh T N | Snapchat" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/snapchat.svg" />
+</a>
+
+<br>
 
 <details>
   <summary> <b>Repo Pins :pushpin: : </b> </summary>
@@ -13,8 +22,8 @@
 </details>
 <hr>
 
-<img align="left" alt="shankaresh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shankaresh&show_icons=true&hide_border=true"/>
-<img align="right" alt="shankaresh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankaresh&layout=compact&hide_border=true" />
+<img align="left" alt="shankaresh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shankaresh&show_icons=true&hide_border=true&hide=issues"/>
+<img alt="shankaresh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankaresh&layout=compact&hide_border=true"/>
 
 <p align="center">
 <img src="https://github.com/shankaresh/shankaresh/blob/master/dx.gif" alt="me"/>
