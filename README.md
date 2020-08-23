@@ -1,4 +1,7 @@
 ## Hi there 👋 , 😎  I'm ✨ _Shankaresh_ ✨ 
+<i>version release at <b>2021</b></i>
+
+<description>Student of <b>Information Technology | front-end-developer</b> </description>
 
 #### Reach Me :
 
@@ -17,10 +20,12 @@
 <br>
 
 <details>
-  <summary> <b>Repo Pins :pushpin: : </b> </summary>
+  <summary> <b>Some other facts about me: </b> </summary>
   <br>
   
-  [![100-Days-of-coding-python](https://github-readme-stats.vercel.app/api/pin/?username=shankaresh&repo=100-Days-of-coding)](https://github.com/shankaresh/100-Days-of-coding)
+  - I am <b>commit -m "learning & self-development"</b> so that consistently achieve better branch
+  - I am <b>flexible</b> in my working hours, being able to work evenings and weekends
+  - I enjoy a <b>collaborative</b> atmosphere
 </details>
 <hr>
 
