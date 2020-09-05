@@ -14,6 +14,10 @@
 <img alt="Shankaresh T N | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 &nbsp;&nbsp;
+<a href="https://www.instagram.com/_.gowda._.05_11._/">
+<img alt="Shankaresh T N | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+&nbsp;&nbsp;
 <a href="https://www.snapchat.com/add/gowda0511">
 <img alt="Shankaresh T N | Snapchat" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />
 </a>
