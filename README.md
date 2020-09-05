@@ -14,6 +14,10 @@
 <img alt="Shankaresh T N | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 &nbsp;&nbsp;
+<a href="https://github.com/shankaresh">
+<img alt="Shankaresh T N | Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/_.gowda._.05_11._/">
 <img alt="Shankaresh T N | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
