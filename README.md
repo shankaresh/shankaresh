@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 , 😎  I'm ✨ _Shankaresh_ ✨ </h2>
-<p align="center">version release at <b>2021</b></p>
+<h6 align="center">version release at <b>2021</b></h6>
 
-<p align="center">Student of <b>Information Technology | front-end-developer</b> </p>
+<p align="center">Student of <b>Information Technology | Web-Developer</b> </p>
 
 <h3 align="center"> Reach Me :</h3>
 
