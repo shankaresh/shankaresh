@@ -15,7 +15,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/shankaresh">
-    <img alt="Shankaresh T N | Github" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img alt="Shankaresh T N | GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitlab.com/shankaresh">
+    <img alt="Shankaresh T N | GitLab" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://dev.to/shankaresh">
