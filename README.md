@@ -6,25 +6,29 @@
 <h3 align="center"> Reach Me :</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shankaresh-t-n-9186a6160">
-<img alt="Shankaresh T N | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://t.me/shankaresh">
-<img alt="Shankaresh T N | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/shankaresh">
-<img alt="Shankaresh T N | Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/_.gowda._.05_11._/">
-<img alt="Shankaresh T N | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.snapchat.com/add/gowda0511">
-<img alt="Shankaresh T N | Snapchat" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />
-</a>
+  <a href="https://www.linkedin.com/in/shankaresh-t-n-9186a6160">
+    <img alt="Shankaresh T N | LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/shankaresh">
+    <img alt="Shankaresh T N | Telegram" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shankaresh">
+    <img alt="Shankaresh T N | Github" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/shankaresh">
+    <img alt="Shankaresh T N | Dev" height="30" width="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_.gowda._.05_11._/">
+    <img alt="Shankaresh T N | Instagram" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.snapchat.com/add/gowda0511">
+    <img alt="Shankaresh T N | Snapchat" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />
+  </a>
 </p>
 <br>
 
