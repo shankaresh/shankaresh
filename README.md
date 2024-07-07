@@ -29,10 +29,10 @@
   <a href="https://www.instagram.com/_.gowda._.05_11._/">
     <img alt="Shankaresh T N | Instagram" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  &nbsp;&nbsp;
+<!--   &nbsp;&nbsp;
   <a href="https://www.snapchat.com/add/gowda0511">
     <img alt="Shankaresh T N | Snapchat" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />
-  </a>
+  </a> -->
 </p>
 <br>
 
@@ -41,7 +41,7 @@
   <br>
   
   - I am <b>commit -m "learning & self-development"</b> so that consistently achieve better branch
-  - I am <b>flexible</b> in my working hours, being able to work evenings and weekends
+  - I am <b>flexible</b> in my working hours, being adjustable to work with teammates
   - I enjoy a <b>collaborative</b> atmosphere
 </details>
 <hr>
